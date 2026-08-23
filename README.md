@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **rakawk21@gmail.com**
 
+<img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtxZWNzMDk4NDdreGdwcndxeHhsOXlneXR3MHgwbGY0bnl3ZmptYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/raka-wirya-kusuma-76a668389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raka-wirya-kusuma" height="30" width="40" /></a>
@@ -21,10 +23,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=sinsrakzz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtxZWNzMDk4NDdreGdwcndxeHhsOXlneXR3MHgwbGY0bnl3ZmptYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif"  />
 
 ###
 
