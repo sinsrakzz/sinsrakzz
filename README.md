@@ -1,13 +1,6 @@
 <h2 data-importer="text" align="center">Hi! I'm Raka Wirya Kusuma.<br>Cyber Security Enthusiast.</h2>
 
 ###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/sinsrakzz/sinsrakzz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
