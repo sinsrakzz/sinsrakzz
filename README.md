@@ -1,13 +1,11 @@
 <h1 align="center">Hi!, I'm Raka Wirya Kusuma</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@rakawk21](https://medium.com/@rakawk21)
-
 - 📫 How to reach me **rakawk21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raka-wirya-kusuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raka-wirya-kusuma" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/raka-wirya-kusuma-76a668389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raka-wirya-kusuma" height="30" width="40" /></a>
 <a href="https://instagram.com/sinsrakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sinsrakz" height="30" width="40" /></a>
 <a href="https://medium.com/@rakawk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakawk21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sinsrakzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sinsrakzz" height="30" width="40" /></a>
