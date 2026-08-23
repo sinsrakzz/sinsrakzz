@@ -23,11 +23,8 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=sinsrakzz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ###
 
 <br clear="both">
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/sinsrakzz/sinsrakzz/snake-output/snake.svg" alt="Snake animation" />
 
-###
