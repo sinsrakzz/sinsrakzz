@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Raka Wirya Kusuma</h1>
-<h3 align="center">Cyber Security Enthusiast</h3>
+<h2 align="center">Cyber Security Enthusiast</h2>
 
 <img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtxZWNzMDk4NDdreGdwcndxeHhsOXlneXR3MHgwbGY0bnl3ZmptYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif"  />
 
