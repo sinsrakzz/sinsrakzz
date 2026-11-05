@@ -14,7 +14,6 @@
 
 <h3 align="left">Cybersecurity & CTF Tools:</h3>
 <p align="left">
-<a href="https://www.kali.org/" target="_blank"><img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="40" height="40"/></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/></a>
 <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite" alt="burp suite" width="40" height="40"/></a>
 <a href="https://nmap.org/" target="_blank"><img src="https://cdn.simpleicons.org/nmap" alt="nmap" width="40" height="40"/></a>
