@@ -14,7 +14,6 @@
 
 <h3 align="left">Cybersecurity & CTF Tools:</h3>
 <p align="left">
-<a href="https://www.wireshark.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/></a>
 <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite" alt="burp suite" width="40" height="40"/></a>
 <a href="https://nmap.org/" target="_blank"><img src="https://cdn.simpleicons.org/nmap" alt="nmap" width="40" height="40"/></a>
 <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit" alt="metasploit" width="40" height="40"/></a>
