@@ -23,8 +23,8 @@
 </p>
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sinsrakzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sinsrakzz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=karashi-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=karashi-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=karashi-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
